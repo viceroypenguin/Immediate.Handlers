@@ -8,7 +8,7 @@
 		<PackageVersion Include="BenchmarkDotNet" Version="0.13.12" />
 		<PackageVersion Include="coverlet.collector" Version="6.0.2" />
 		<PackageVersion Include="coverlet.msbuild" Version="6.0.2" />
-		<PackageVersion Include="GitHubActionsTestLogger" Version="2.3.3" />
+		<PackageVersion Include="GitHubActionsTestLogger" Version="2.4.1" />
 		<PackageVersion Include="Mediator.Abstractions" Version="2.1.7" />
 		<PackageVersion Include="Mediator.SourceGenerator" Version="2.1.7" />
 		<PackageVersion Include="MediatR" Version="12.2.0" />
